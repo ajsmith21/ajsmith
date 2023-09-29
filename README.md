@@ -1,1 +1,4 @@
-# ajsmith
+- 👋 Hi, I’m Asia Smith and my email is: ajsmith21@my.waketech.edu
+- 👀 My GitHub account has the username ajsmith21 and was recently created.
+- 🌱 The respository I created is a way to share information with classmates and others on projects in GitHub.
+- 💞️ To clone my repository to my computer, I downloaded GitHub through Chrome and it automatically logged me in. I then hit "clone a respiratory" and chose a place to save it.
